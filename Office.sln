@@ -1,0 +1,122 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace PersonLibrary
+{
+    public class Address
+    {
+        public string Country { get; set; }
+
+        public string City { get; set; }
+
+        public string AddressLine1 { get; set; }
+
+        public string AddressLine2 { get; set; }
+
+        public TypeAddress AddressType { get; set; }
+    }
+}
+
+namespace PersonLibrary
+{
+    public enum Sex
+    {
+        Male, 
+
+        Female
+    }
+
+    public enum TypeAddress
+    {
+        HomeAddress,
+
+        WorkAddress
+    }
+
+    public enum TypePhoneNumber
+    {
+        MobileNumber,
+
+        HomeNumber,
+
+        WorkNumber
+    }
+}
+
+namespace PersonLibrary
+{
+    public class IdentityCard
+    {
+        public string DocumentNumber { get; set; }
+
+        public string Authority { get; set; }
+
+        public string ExpirationDate { get; set; }
+
+        public string CreatedDate { get; set; }
+    }
+}
+
+namespace PersonLibrary
+{
+    public class Person
+    {
+        public string FirstName { get; private set; }
+
+        public string SecondName { get; set; }
+
+        public string LastName { get; private set; }
+
+        public string FullName
+        {
+            get
+            {
+                return this.FirstName + " " + this.LastName;
+            }
+        }
+
+        public Sex SexType { get; set; } 
+
+        public string PersonalNumber { get; set; }
+
+        public int Height { get; set; }
+
+        public string Notes {get;set;}
+
+        public Address[] Addresses { get; set; }
+
+        public PhoneNumber[] PhoneNumbers { get; set; }
+
+        public IdentityCard Card { get; set; }
+
+        public Person( string firstName, string lastName )
+        {
+            this.FirstName = firstName;
+
+            this.LastName = lastName;
+        }
+    }
+}
+
+namespace PersonLibrary
+{
+    public class PhoneNumber
+    {
+        public string Number { get; private set; }
+
+        public TypePhoneNumber Type { get; private set; }
+
+        public string Notes { get; set; }
+
+        public PhoneNumber(string number, TypePhoneNumber type)
+        {
+            this.Number = number;
+
+            this.Type = type;
+        }
+    }
+}
+
