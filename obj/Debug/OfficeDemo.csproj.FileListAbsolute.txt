@@ -1,0 +1,43 @@
+c:\Users\Stilgar\documents\visual studio 2012\Projects\Lesson07\OfficeDemo\bin\Debug\OfficeDemo.exe.config
+c:\Users\Stilgar\documents\visual studio 2012\Projects\Lesson07\OfficeDemo\bin\Debug\OfficeDemo.exe
+c:\Users\Stilgar\documents\visual studio 2012\Projects\Lesson07\OfficeDemo\bin\Debug\OfficeDemo.pdb
+c:\Users\Stilgar\documents\visual studio 2012\Projects\Lesson07\OfficeDemo\obj\Debug\OfficeDemo.exe
+c:\Users\Stilgar\documents\visual studio 2012\Projects\Lesson07\OfficeDemo\obj\Debug\OfficeDemo.pdb
+C:\Users\Stilgar\SkyDrive\CSharp Course\lesson08\Lesson08 - exercises\OfficeDemo\bin\Debug\OfficeDemo.exe.config
+C:\Users\Stilgar\SkyDrive\CSharp Course\lesson08\Lesson08 - exercises\OfficeDemo\obj\Debug\OfficeDemo.exe
+C:\Users\Stilgar\SkyDrive\CSharp Course\lesson08\Lesson08 - exercises\OfficeDemo\obj\Debug\OfficeDemo.pdb
+C:\Users\Stilgar\SkyDrive\CSharp Course\lesson08\Lesson08 - exercises\OfficeDemo\bin\Debug\OfficeDemo.exe
+C:\Users\Stilgar\SkyDrive\CSharp Course\lesson08\Lesson08 - exercises\OfficeDemo\bin\Debug\OfficeDemo.pdb
+C:\Users\Stilgar\SkyDrive\CSharp Course\lesson08\Lesson08 - exercises\OfficeDemo\obj\Debug\OfficeDemo.csprojResolveAssemblyReference.cache
+C:\Users\zstoinov\Desktop\CSharp Course\lesson08\Lesson08 - exercises\OfficeDemo\bin\Debug\OfficeDemo.exe.config
+C:\Users\zstoinov\Desktop\CSharp Course\lesson08\Lesson08 - exercises\OfficeDemo\obj\Debug\OfficeDemo.exe
+C:\Users\zstoinov\Desktop\CSharp Course\lesson08\Lesson08 - exercises\OfficeDemo\obj\Debug\OfficeDemo.pdb
+E:\Dropbox\CSharp_Cource\Lesson_08\Lesson_08_SourceCode\OfficeDemo\bin\Debug\OfficeDemo.exe.config
+E:\Dropbox\CSharp_Cource\Lesson_08\Lesson_08_SourceCode\OfficeDemo\obj\Debug\OfficeDemo.exe
+E:\Dropbox\CSharp_Cource\Lesson_08\Lesson_08_SourceCode\OfficeDemo\obj\Debug\OfficeDemo.pdb
+E:\Dropbox\CSharp_Cource\Lesson_08\Lesson_08_SourceCode\OfficeDemo\obj\Debug\OfficeDemo.csprojResolveAssemblyReference.cache
+E:\Dropbox\CSharp_Cource\Lesson_08\Lesson_08_SourceCode\OfficeDemo\bin\Debug\OfficeDemo.exe
+E:\Dropbox\CSharp_Cource\Lesson_08\Lesson_08_SourceCode\OfficeDemo\bin\Debug\OfficeDemo.pdb
+G:\Dropbox\CSharp_Cource\Lesson_08\Lesson_08_SourceCode\OfficeDemo\bin\Debug\OfficeDemo.exe.config
+G:\Dropbox\CSharp_Cource\Lesson_08\Lesson_08_SourceCode\OfficeDemo\obj\Debug\OfficeDemo.exe
+G:\Dropbox\CSharp_Cource\Lesson_08\Lesson_08_SourceCode\OfficeDemo\obj\Debug\OfficeDemo.pdb
+G:\Dropbox\CSharp_Cource\Lesson_08\Lesson_08_SourceCode\OfficeDemo\bin\Debug\OfficeDemo.exe
+G:\Dropbox\CSharp_Cource\Lesson_08\Lesson_08_SourceCode\OfficeDemo\bin\Debug\OfficeDemo.pdb
+G:\Dropbox\CSharp_Cource\Lesson_08\Lesson_08_SourceCode\OfficeDemo\obj\Debug\OfficeDemo.csprojResolveAssemblyReference.cache
+D:\Dropbox\CSharp_Cource - Short\Lesson_09\Lesson_09_SourceCode\OfficeDemo\bin\Debug\OfficeDemo.exe.config
+D:\Dropbox\CSharp_Cource - Short\Lesson_09\Lesson_09_SourceCode\OfficeDemo\obj\Debug\OfficeDemo.exe
+D:\Dropbox\CSharp_Cource - Short\Lesson_09\Lesson_09_SourceCode\OfficeDemo\obj\Debug\OfficeDemo.pdb
+D:\Dropbox\CSharp_Cource - Short\Lesson_09\Lesson_09_SourceCode\OfficeDemo\bin\Debug\OfficeDemo.exe
+D:\Dropbox\CSharp_Cource - Short\Lesson_09\Lesson_09_SourceCode\OfficeDemo\bin\Debug\OfficeDemo.pdb
+D:\Dropbox\CSharp_Cource - Short\Lesson_09\Lesson_09_SourceCode\OfficeDemo\obj\Debug\OfficeDemo.csprojResolveAssemblyReference.cache
+D:\Dropbox\CSharp_Cource - Short\Lesson_09\Lesson_09_SourceCode\OfficeDemo\bin\Debug\PersonLibrary.dll
+D:\Dropbox\CSharp_Cource - Short\Lesson_09\Lesson_09_SourceCode\OfficeDemo\bin\Debug\PersonLibrary.pdb
+C:\Users\angel\Desktop\CSharp\lesson_09\Lesson_09_SourceCode\OfficeDemo\bin\Debug\OfficeDemo.exe.config
+C:\Users\angel\Desktop\CSharp\lesson_09\Lesson_09_SourceCode\OfficeDemo\bin\Debug\OfficeDemo.exe
+C:\Users\angel\Desktop\CSharp\lesson_09\Lesson_09_SourceCode\OfficeDemo\bin\Debug\OfficeDemo.pdb
+C:\Users\angel\Desktop\CSharp\lesson_09\Lesson_09_SourceCode\OfficeDemo\bin\Debug\PersonLibrary.dll
+C:\Users\angel\Desktop\CSharp\lesson_09\Lesson_09_SourceCode\OfficeDemo\bin\Debug\PersonLibrary.pdb
+C:\Users\angel\Desktop\CSharp\lesson_09\Lesson_09_SourceCode\OfficeDemo\obj\Debug\OfficeDemo.csprojResolveAssemblyReference.cache
+C:\Users\angel\Desktop\CSharp\lesson_09\Lesson_09_SourceCode\OfficeDemo\obj\Debug\OfficeDemo.csproj.CoreCompileInputs.cache
+C:\Users\angel\Desktop\CSharp\lesson_09\Lesson_09_SourceCode\OfficeDemo\obj\Debug\OfficeDemo.exe
+C:\Users\angel\Desktop\CSharp\lesson_09\Lesson_09_SourceCode\OfficeDemo\obj\Debug\OfficeDemo.pdb
